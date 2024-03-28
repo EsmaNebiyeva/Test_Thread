@@ -27,7 +27,6 @@ public class FileClass {
 
                 System.out.println(b);
             }
-
         }
         fileInputStream.close();
         avarage=sum/count;
